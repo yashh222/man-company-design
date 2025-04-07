@@ -2,7 +2,7 @@
   "name": "puzzle-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yashh222.github.io/man-company-design",
+  "homepage": "https://yashh222.github.io/puzzle-game",
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@shadcn/ui": "^0.0.4",
