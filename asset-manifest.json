@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/man-company-design/static/css/main.85c8fbc9.css",
+    "main.js": "/man-company-design/static/js/main.8ec6bf2b.js",
+    "static/js/453.1b472569.chunk.js": "/man-company-design/static/js/453.1b472569.chunk.js",
+    "index.html": "/man-company-design/index.html",
+    "main.85c8fbc9.css.map": "/man-company-design/static/css/main.85c8fbc9.css.map",
+    "main.8ec6bf2b.js.map": "/man-company-design/static/js/main.8ec6bf2b.js.map",
+    "453.1b472569.chunk.js.map": "/man-company-design/static/js/453.1b472569.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c8fbc9.css",
+    "static/js/main.8ec6bf2b.js"
+  ]
+}
